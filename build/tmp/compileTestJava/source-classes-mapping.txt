@@ -1,0 +1,2 @@
+com/alseda/vtbbank/VtbTestAppium.java
+ com.alseda.vtbbank.VtbTestAppium
